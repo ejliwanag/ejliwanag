@@ -55,20 +55,6 @@ Claude • Cursor AI • OpenAI • Gemini • Blackbox • DeepSeek
 
 ---
 
-## Internship Experience
-
-### Associate Software Engineer — TechFactors Inc.
-
-Jan – Apr 2026
-
-* Built backend modules and RESTful APIs using ASP.NET Core (Clean Architecture)
-* Integrated React frontend with backend services
-* Supported QA testing, debugging, and documentation
-* Worked with relational databases and optimized SQL queries
-* Collaborated in Agile teams using Git workflows and code reviews
-
----
-
 ## Projects
 
 ### Alerto Hagonoy — Emergency Management System
@@ -99,10 +85,6 @@ React • Next.js • Node.js • Vercel
 * Built responsive portfolio website with SSR and SEO optimization
 * Delivered under tight deadline using AI-assisted development
 * Deployed using CI/CD pipeline on Vercel
-
----
-
-## Education
 
 B.S. Information Technology — Web and Mobile Development
 Bulacan State University – Hagonoy Campus
