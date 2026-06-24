@@ -1,7 +1,7 @@
 # Ernest John Liwanag
 
 Paombong, Bulacan, PH • +63 985 020 8851 • [ernestliwanag12@gmail.com](mailto:ernestliwanag12@gmail.com)
-[GitHub](https://github.com/ejliwanag) • [Portfolio](https://liwanag-portfolio.vercel.app/)
+ • [Portfolio](https://liwanag-portfolio.vercel.app/)
 
 ---
 
