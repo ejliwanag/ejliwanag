@@ -1,97 +1,149 @@
-# Ernest John Liwanag
+<h1 align="center">Hi 👋, I'm Ernest John Liwanag</h1>
+<h3 align="center">Full-Stack Software Engineer | React • Next.js • TypeScript • Node.js</h3>
 
-Paombong, Bulacan, PH • +63 985 020 8851 • [ernestliwanag12@gmail.com](mailto:ernestliwanag12@gmail.com)
- • [Portfolio](https://liwanag-portfolio.vercel.app/)
-
----
-
-## Professional Summary
-
-Full-stack software engineer focused on building production-grade web and mobile applications using modern frameworks and cloud technologies. Experienced in API development, database design, system integration, and agile workflows. Actively applies AI-assisted development tools to improve engineering efficiency and software quality.
-
----
-
-## Technical Skills
-
-### Languages
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#
+<p align="center">
+  <a href="https://liwanag-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:ernestliwanag12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Paombong%2C%20Bulacan%2C%20PH-blue?style=for-the-badge" />
 </p>
 
-### Frontend & Mobile
+---
+
+### 🧭 About Me
+
+Full-stack software engineer focused on building production-grade web and mobile applications using modern frameworks and cloud technologies. Experienced in **API development, database design, system integration, and agile workflows**. Passionate about creating accessible, user-focused interfaces and applying AI-assisted development tools to improve engineering efficiency and software quality.
+
+- 🎓 B.S. Information Technology — Web and Mobile Development, **Bulacan State University – Hagonoy Campus** (June 2026)
+- 💼 Former Associate Software Developer Intern @ **TechFactors Inc.**
+- 🗣️ Speaker/Presenter — International Research Conference on Information Technology Education (**IRCITE 2026**)
+- 🌱 Currently exploring: Docker, Kubernetes, and scalable cloud architecture
+- ⚡ Fun fact: I build cross-platform emergency response systems that help real communities
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React.js  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> Next.js  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="20"/> Vite  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML5  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS3  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20"/> Tailwind CSS  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React Native  
-Flutter (basic exposure)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
 </p>
 
-### Backend & APIs
+**Frontend & Mobile**
 
-Node.js • Express.js • ASP.NET Core • REST APIs • JSON • Webhooks • API Integration
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" style="background:white;border-radius:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" alt="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
+</p>
 
-### Databases
+**Backend & APIs**
 
-PostgreSQL • MySQL • SQLite • MS SQL Server • Firebase (NoSQL) • Schema Design • Query Optimization
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" style="background:white;border-radius:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt="ASP.NET Core"/>
+</p>
 
-### Cloud & DevOps
+**Databases**
 
-GCP • Vercel • Docker (basic) • Kubernetes (conceptual) • Redis (conceptual) • Git • GitHub • CI/CD
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="MS SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
+</p>
 
-### AI Tools
+**Cloud & DevOps**
 
-Claude • Cursor AI • OpenAI • Gemini • Blackbox • DeepSeek
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel" style="background:white;border-radius:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" style="background:white;border-radius:4px"/>
+</p>
 
----
+**AI Tools**
 
-## Projects
-
-### Alerto Hagonoy — Emergency Management System
-
-Vite • React Native • Firebase • Node.js • REST APIs
-
-* Built full-stack emergency response platform for LGU use
-* Implemented real-time alerts, weather tracking, and incident reporting
-* Designed scalable Firebase NoSQL architecture
-* Integrated external geolocation and weather APIs
-
----
-
-### Bulacan Coop Loan Management System
-
-React • Node.js • Express • MySQL • PostgreSQL
-
-* Developed loan management system with dashboards and reporting
-* Designed relational database schema with optimized queries
-* Integrated QR-based payment system via external APIs
-
----
-
-### Art Studios — Architecture Portfolio Website
-
-React • Next.js • Node.js • Vercel
-
-* Built responsive portfolio website with SSR and SEO optimization
-* Delivered under tight deadline using AI-assisted development
-* Deployed using CI/CD pipeline on Vercel
-
-B.S. Information Technology — Web and Mobile Development
-Bulacan State University – Hagonoy Campus
-June 2026
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor%20AI-000000?style=flat-square&logo=cursor&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square)
 
 ---
 
-## Certifications & Conferences
+### 🚀 Featured Projects
 
-Speaker/Presenter — International Research Conference on Information Technology Education (IRCITE 2026)
+#### 🚨 [Alerto Hagonoy — Municipal Emergency Management System](#)
+`React` `Vite` `React Native` `Expo` `Firebase` `REST APIs` `Google Maps`
+- Cross-platform emergency management system with a web dispatch dashboard and mobile app for residents
+- Enables real-time incident reporting plus weather and tidal alerts
+- Integrated push notifications, GPS, and real-time data sync — contributing to an estimated **40% improvement** in emergency response efficiency
+
+#### 💰 Bulacan Coop Loan Management System
+`React` `Express.js` `MySQL` `PostgreSQL` `REST APIs`
+- Responsive loan management web app that streamlines loan processing and payment tracking
+- Implemented QR code payments, cutting manual payment recording by **~60%**
+- Built real-time admin dashboards for loan records, payment history, and financial analytics
+
+#### 🧩 ACTIVO — Team Collaboration & Project Management Platform
+`Next.js` `TypeScript` `Tailwind CSS` `PostgreSQL` `Cloudflare R2`
+- Centralized project and task management platform with reusable UI components
+- Implemented Firebase Authentication, role-based access control, and real-time data synchronization
+- Focused on scalability and real-time collaboration
+
+#### 🏛️ Art Studios — Architecture Portfolio Website
+`React` `Next.js` `Node.js` `Vercel`
+- Responsive portfolio website with SSR and SEO optimization
+- Delivered under a tight deadline using AI-assisted development workflows
+- Deployed via CI/CD pipeline on Vercel
+
+---
+
+### 💼 Experience
+
+**Associate Software Engineer Intern** — TechFactors Inc., Quezon City, PH *(Jan – Apr 2026)*
+- Developed and maintained backend RESTful APIs using ASP.NET Core (Clean Architecture), collaborating with frontend teams to integrate React applications
+- Built and validated API endpoints, database entities, and workflows using Swagger; performed testing, debugging, and technical documentation
+- Managed and processed 1,000+ structured student records using Excel and Google Sheets, improving data accuracy across teams
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+> Replace `YOUR-GITHUB-USERNAME` above with your actual GitHub username to activate these live stat cards.
+
+---
+
+### 📫 Let's Connect
+
+<p>
+  <a href="mailto:ernestliwanag12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://liwanag-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Thanks for visiting my profile — always open to collaborating on impactful software projects!</i></p>
