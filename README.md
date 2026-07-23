@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ernest John Liwanag</h1>
-<h3 align="center">Full-Stack Software Engineer | React • Next.js • TypeScript • Node.js</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:0EA5E9&height=220&section=header&text=Ernest%20John%20Liwanag&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://liwanag-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -14,7 +15,7 @@
 Full-stack software engineer focused on building production-grade web and mobile applications using modern frameworks and cloud technologies. Experienced in **API development, database design, system integration, and agile workflows**. Passionate about creating accessible, user-focused interfaces and applying AI-assisted development tools to improve engineering efficiency and software quality.
 
 - 🎓 B.S. Information Technology — Web and Mobile Development, **Bulacan State University – Hagonoy Campus** (June 2026)
-- 💼 Former Associate Software Developer Intern @ **TechFactors Inc.**
+- 💼 Former Associate Software Engineer Intern @ **TechFactors Inc.**
 - 🗣️ Speaker/Presenter — International Research Conference on Information Technology Education (**IRCITE 2026**)
 - 🌱 Currently exploring: Docker, Kubernetes, and scalable cloud architecture
 - ⚡ Fun fact: I build cross-platform emergency response systems that help real communities
@@ -134,6 +135,8 @@ Full-stack software engineer focused on building production-grade web and mobile
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ejliwanag&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 
 ### 📫 Let's Connect
 
