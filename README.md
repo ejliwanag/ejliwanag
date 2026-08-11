@@ -114,7 +114,7 @@ Full-stack software engineer focused on building production-grade web and mobile
 
 ### 💼 Experience
 
-**Associate Software Engineer Intern** — TechFactors Inc., Quezon City, PH *(Jan – Apr 2026)*
+**Associate Software Developer Intern** — TechFactors Inc., Quezon City, PH *(Jan – Apr 2026)*
 - Developed and maintained backend RESTful APIs using ASP.NET Core (Clean Architecture), collaborating with frontend teams to integrate React applications
 - Built and validated API endpoints, database entities, and workflows using Swagger; performed testing, debugging, and technical documentation
 - Managed and processed 1,000+ structured student records using Excel and Google Sheets, improving data accuracy across teams
