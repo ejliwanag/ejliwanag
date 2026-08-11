@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:0EA5E9&height=220&section=header&text=Ernest%20John%20Liwanag&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:0EA5E9&height=220&section=header&text=Ernest%20John%20Liwanag&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=%20Software%20Engineer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🧭 About Me
 
-Full-stack software engineer focused on building production-grade web and mobile applications using modern frameworks and cloud technologies. Experienced in **API development, database design, system integration, and agile workflows**. Passionate about creating accessible, user-focused interfaces and applying AI-assisted development tools to improve engineering efficiency and software quality.
+Information Technology graduate focused on building production-grade web and mobile applications using modern frameworks and cloud technologies. Experienced in **API development, database design, system integration, and agile workflows**. Passionate about creating accessible, user-focused interfaces and applying AI-assisted development tools to improve engineering efficiency and software quality.
 
 - 🎓 B.S. Information Technology — Web and Mobile Development, **Bulacan State University – Hagonoy Campus** (June 2026)
 - 💼 Former Associate Software Engineer Intern @ **TechFactors Inc.**
